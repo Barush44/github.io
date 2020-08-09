@@ -5,6 +5,7 @@ title: "Education and experience"
 
 The following page will go over personal educational background as well as experience coding with Rstudio.
 <br>
+<br>
 
 ### [Eductaion]()
 - Olympian high school **2014-2017**

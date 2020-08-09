@@ -12,6 +12,15 @@ navbar:
     - text: "Education and experience"
       icon: fa-address-book
       href: barusheducation.html
+    - text: "Github Account"
+      icon: fa-github
+      href: https://github.com/Barush44
+    - text: "Socail Media"
+      icon: fa-instagram
+      href: https://www.instagram.com/04barush/
+      
+  Right:
+    - text: ""
 output:
   html_document:
     theme: cosmo
