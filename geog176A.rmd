@@ -6,7 +6,7 @@ In the summer of 2020 I took a class GIS course based in R. I worte some code, a
 
 ## [Building a project website]()
 
-- Created my first website using Rstudio.
+- Created my first [website](https://barush44.github.io/github.io/) using Rstudio.
 -  In this assignment I created a successful yml file which was the base to my website.
 - Includes an index html which is the introduction to my website.
 - And a successful navbar.
