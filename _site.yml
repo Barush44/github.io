@@ -18,7 +18,7 @@ navbar:
     - text: "Socail Media"
       icon: fa-instagram
       href: https://www.instagram.com/04barush/
-      
+       
   Right:
     - text: ""
 output:
