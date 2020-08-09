@@ -1,0 +1,20 @@
+---
+title: <center>"Barush's education and experience"</center >
+---
+<br>
+
+The following page will go over personal educational background as well as experience coding with Rstudio.
+<br>
+
+### [Eductaion]()
+- Olympian high school **2014-2017**
+- [Southwestern community college](https://www.swccd.edu)     **2017-2019**
+- [San Diego State University](https://www.sdsu.edu)          **2017-2019**
+- [Univeristy of California Santa Barbara](https://geog.ucsb.edu) **2019-present**
+
+### [Experience]()
+- Rstudio **2020-present**
+  1. [LabF-Geog12W](https://github.com/Barush44/labF_Geog12.git)
+  2. [Hello World](https://github.com/Barush44/hello-world.git)
+  3. [Exercise4](https://github.com/Barush44/exercise-04.git)
+  

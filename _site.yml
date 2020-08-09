@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
+    - text: "Barush's education and experience"
+      href: untitled.html
 output:
   html_document:
     theme: cosmo
