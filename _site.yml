@@ -1,13 +1,16 @@
 name: "first-website"
 output_dir: "."
 navbar:
-  title: "My Beautiful Website"
+  title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-user
       href: geog176A.html
-    - text: "Barush's education and experience"
+    - text: "Education and experience"
+      icon: fa-address-book
       href: barusheducation.html
 output:
   html_document:
