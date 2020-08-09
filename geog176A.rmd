@@ -1,0 +1,13 @@
+---
+title: <center> Projects </center>
+---
+
+In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website]()
+
+- Created my first website using Rstudio.
+-  In this assignment I created a successful yml file which was the base to my website.
+- Includes an index html which is the introduction to my website.
+- And a successful navbar.
+

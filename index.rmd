@@ -1,0 +1,12 @@
+---
+title: <center>About Me</center>
+---
+<br> 
+<center>
+# Hi, I'm Barush Martinez 
+</center>
+  
+I am form San Diego CA, and a transfer student. I enjoy spending time outside, whether it be surfing, hiking or running. I wanted to become cargo pilot after UCSB but unfortunately due to the 2020 covid-19 pandemic I will  now aim to becoming a firefighter after college. Geography 176A is the first time I have ever attempted anything with coding, and although difficult at the begging I hope that with time it becomes easier. 
+
+
+
